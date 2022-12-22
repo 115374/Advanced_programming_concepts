@@ -1,3 +1,0 @@
-/mnt/c/Users/Dave/OneDrive - Saxion/Technische informatica/leerjaar 2/periode 2/Apc/StateMachineV2.1/StateMachineV2/cmake-build-wslclang/CMakeFiles/StateMachineV2.dir
-/mnt/c/Users/Dave/OneDrive - Saxion/Technische informatica/leerjaar 2/periode 2/Apc/StateMachineV2.1/StateMachineV2/cmake-build-wslclang/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Dave/OneDrive - Saxion/Technische informatica/leerjaar 2/periode 2/Apc/StateMachineV2.1/StateMachineV2/cmake-build-wslclang/CMakeFiles/rebuild_cache.dir
