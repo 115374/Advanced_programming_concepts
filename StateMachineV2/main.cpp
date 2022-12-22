@@ -6,16 +6,17 @@
 int main() {
     openState off;
     CoolingState cool;
-    ClosedOffState defros;
+    ClosedOffState closed;
 
     statemachine fsm{&off};
     fsm.declareState();
-    fsm.setState(&cool/*, CLOSED_COOLING*/);
+    fsm.setState(&cool);
     fsm.declareState();
-    fsm.setState(fsm.getState()/*, CLOSED_COOLING*/);
+    fsm.setState(fsm.getState());
     fsm.declareState();
-    fsm.setState(&defros/*, CLOSED_OFF*/);
+    fsm.setState(&closed);
     fsm.declareState();
+
 
 
     return 0;

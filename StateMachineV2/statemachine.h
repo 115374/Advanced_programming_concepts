@@ -9,6 +9,7 @@
 
 class statemachine{
 public:
+
     statemachine() : currentState(nullptr){
 
     }
@@ -32,7 +33,5 @@ public:
 private:
     iState* currentState;
     iState* prevState;
-
-   // States m_state;
 };
 #endif //STATEMACHINEV2_STATEMACHINE_H
