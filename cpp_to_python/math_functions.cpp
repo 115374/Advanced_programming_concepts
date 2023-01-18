@@ -2,7 +2,7 @@
 // Created by daany on 1/12/2023.
 //
 
-#include "python_bindings.h"
+#include "math_functions.h"
 
 int fact(int n) {
     if (n <= 1) return 1;
